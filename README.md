@@ -2,8 +2,6 @@
 
 # 💫 Mubasheer Ahmed Syed
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Data+Analyst+%F0%9F%93%8A;Data+Science+Enthusiast+%F0%9F%A7%A0;Python+%7C+SQL+%7C+Power+BI;Transforming+Data+Into+Insights+%E2%9C%A8" alt="Typing SVG" />
-
 ### 📊 Turning Complex Data Into Clear Business Decisions
 
 </div>
