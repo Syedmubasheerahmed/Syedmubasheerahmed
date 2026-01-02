@@ -2,8 +2,6 @@
 
 # 💫 Mubasheer Ahmed Syed
 
-### 📊 Turning Complex Data Into Clear Business Decisions
-
 </div>
 
 ---
@@ -28,7 +26,7 @@ Data professional with strong expertise in **analytics, statistics, and business
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syedmubasheer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmubasheer)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmubasheerwgl@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syedmubasheerahmed)
 
